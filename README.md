@@ -21,7 +21,7 @@ Finalizada la prueba recuerda enviar link del proyecto y tu repositorio a tecnol
 
 ![Formulario](/img/screen01.png "Formulario")
 
-***REQUERIMIENTO 2:** Despues de generar el formulario anterior generar la siguiente tabla para visualizar el lsitado de los datos almacenados
+***REQUERIMIENTO 2:** Despues de generar el formulario anterior generar la siguiente tabla para visualizar el listado de los datos almacenados
 
 > Sugerencia: usar una url similar a esta **http://<APP_URL>/admin/solicitudes** donde **APP_URL** es la url base de la aplicación
 
